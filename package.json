@@ -1,0 +1,19 @@
+{
+  "name": "ayinza",
+  "version": "1.0.0",
+  "description": "Edu_community app, for questions and answer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ask questions",
+    "Answer questions"
+  ],
+  "author": "Ayinza sherina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2"
+  }
+}
